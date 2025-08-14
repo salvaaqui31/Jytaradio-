@@ -26,7 +26,7 @@ html
 ‎    <h1>Welcome to My Radio Station</h1>
 ‎    <p>Paminawa ang among live broadcast:</p>
 ‎    <audio controls>
-‎        <source src=" http://s12.myradiostream.com:18888/type="audio/mpeg">
+‎        <source src="https://radio.free-shoutcast.com/site/86969/type="audio/mpeg">
 ‎        Your browser does not support the audio element.
 ‎    </audio>
 ‎</body>
